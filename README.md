@@ -1,4 +1,4 @@
-# Hi there 👋!!! I'm Kashyap Holla.
+# Hi there👋, I'm Kashyap Holla.
 
 ## MS in Computer Science Student at the University of Texas at Arlington.
 
