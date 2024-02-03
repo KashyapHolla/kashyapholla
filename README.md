@@ -12,7 +12,7 @@
 
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-holla/)
-[![Email Badge](https://img.shields.io/badge/email-kxv6431%40mavs.uta.edu-blue?style=flat&logo=gmail)](mailto:kxv6431@mavs.uta.edu)
+[![Email Badge](https://img.shields.io/badge/kxv6431%40mavs.uta.edu-blue?style=flat&logo=gmail)](mailto:kxv6431@mavs.uta.edu)
 
 ## Languages and Tools:
 
