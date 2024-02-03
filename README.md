@@ -11,7 +11,6 @@
 
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kashyap-holla-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kashyap-holla/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-holla/)
 [![Email Badge](https://img.shields.io/badge/email-kxv6431%40mavs.uta.edu-blue?style=flat&logo=outlook)](mailto:kxv6431@mavs.uta.edu)
 
