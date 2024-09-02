@@ -5,7 +5,7 @@
 - 🔭 I’m currently pursuing my Master's degree in Computer Science from the University of Texas at Arlington. 
 - 🌱 I'm skilled in Java, Python, and web development tools and technologies, like JavaScript, React, Angular, MongoDB, and Node.js.
 - 👯 I’m open to networking and collaboration opportunities.
-- 🤔 I’m looking for tech internships and full-time job opportunities in the field of Software Engineering.
+- 🤔 I’m looking for full-time job opportunities in the field of Software Engineering.
 - 📫 How to reach me: kxv6431@mavs.uta.edu
 - ⚡ Hobbies: Journaling, Reading, Coding, and Learning new languages.
 
