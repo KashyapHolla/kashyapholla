@@ -1,6 +1,6 @@
 # Hi there👋, I'm Kashyap Holla
 
-## MS in Computer Science Student at the University of Texas at Arlington
+## Cloud Engineer at Toshiba | MS in Computer Science Student at the University of Texas at Arlington
 
 - 🔭 I’m currently working as a Cloud Engineer at Toshiba Global Commerce Solutions and also pursuing my Master's degree in Computer Science from the University of Texas at Arlington. 
 - 🌱 Skilled in full-stack development, machine learning and cloud engineering with expertise in Python, Java, TypeScript, React, Spring Boot, Kubernetes, Azure and modern AI/ML tools including transformers, vector search, and LLM inference.
